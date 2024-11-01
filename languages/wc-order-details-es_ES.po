@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-12-18 08:15+0500\n"
+"PO-Revision-Date: 2021-12-18 08:17+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: inc\n"
+"X-Poedit-SearchPath-1: js\n"
+"X-Poedit-SearchPath-2: index.php\n"
+"X-Poedit-SearchPath-3: pro\n"
+
+#: inc/functions.php:107 inc/wcod_settings.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes los permisos necesarios para acceder a esta página."
+
+#: inc/functions.php:118
+msgid "Select Order to View Details"
+msgstr "Seleccione Orden para ver detalles"
+
+#: inc/functions.php:256
+msgid "You are not allowed access this page."
+msgstr "No se le permite acceder a esta página."
+
+#: inc/functions.php:566
+msgid "Click here"
+msgstr "haga clic aquí"
+
+#: inc/functions.php:991
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/functions.php:998 inc/wcod_settings.php:151
+msgid "Go Premium"
+msgstr "Hazte Premium"
+
+#: inc/wcod_settings.php:1
+msgid "No script kiddies please!"
+msgstr "¡Ningunos niños del guión, por favor!"
+
+#: inc/wcod_settings.php:157
+msgid "General"
+msgstr "General"
+
+#: inc/wcod_settings.php:158
+msgid "Help"
+msgstr "Ayudar"
+
+#: inc/wcod_settings.php:181
+msgid "Shortcodes"
+msgstr "Códigos cortos"
+
+#: inc/wcod_settings.php:187
+msgid "How it works?"
+msgstr "¿Cómo funciona?"
+
+#: inc/wcod_settings.php:191
+msgid "template file created"
+msgstr "archivo de plantilla creado"
+
+#: inc/wcod_settings.php:221
+msgid "Tabs Settings"
+msgstr "Configuración de pestañas"
+
+#: inc/wcod_settings.php:224
+msgid "Select tabs to appear/disappear"
+msgstr "Seleccionar pestañas para aparecer / desaparecer"
+
+#: inc/wcod_settings.php:227 inc/wcod_settings.php:247
+#: inc/wcod_settings.php:266
+msgid "None"
+msgstr "Ninguna"
+
+#: inc/wcod_settings.php:232 inc/wcod_settings.php:253
+#: inc/wcod_settings.php:271 inc/wcod_settings.php:287
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/wcod_settings.php:241
+msgid "Styles & Scripts"
+msgstr "Estilos y guiones"
+
+#: inc/wcod_settings.php:244
+msgid "Select pages to use load plugin styles and scripts"
+msgstr "Seleccionar páginas para usar estilos y scripts de complementos de carga"
+
+#: inc/wcod_settings.php:263
+msgid "Allow Users by Role"
+msgstr "Permitir usuarios por función"
+
+#: inc/wcod_settings.php:279
+msgid "Various Options"
+msgstr "Varias opciones"
+
+#: inc/wcod_settings.php:285
+msgid "Disable all theme styles"
+msgstr "Deshabilitar todos los estilos de tema"
+
+#: inc/wcod_settings.php:302
+msgid "Open a Ticket on Support Forums"
+msgstr "Abrir un ticket en los foros de soporte"
+
+#: inc/wcod_settings.php:303
+msgid "Contact Developer"
+msgstr "Desarrollador de contacto"

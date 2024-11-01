@@ -1,0 +1,140 @@
+	.card-common{
+	  border-color: rgb(3, 109, 180);
+	}
+	.card-common > .card-header {
+	  color: rgb(255, 255, 255);  
+	  background-color: rgb(40, 64, 109);
+	  border-color: rgb(40, 64, 109);
+	  /* height: 3rem; */
+	}
+	
+	
+	
+	h4.card-title a {
+	  color:white;
+	  font-weight: bold;
+	  font-size: 30px;
+	  text-transform: uppercase;
+	  text-decoration: none;
+	  display:block;
+	}
+	
+	h4.card-title {
+		position: relative;
+		padding: 10px 0 4px;
+	}
+	
+	.small-box{
+	  width:32px;
+	  height:32px;
+	  position: absolute;
+	  top: 0;
+	  right: 0;  
+	}
+	
+	.panel-clr1 {
+	  border-color: rgb(146, 96, 2);
+	}
+	
+	.bg-clr1{
+	  background-color: rgb(146, 96, 2);
+	  border-color: rgb(146, 96, 2);
+	}
+	
+	
+	
+	
+	.bg-clr2 {
+	  background-color: rgb(4, 122, 113);
+	  border-color: rgb(4, 122, 113);
+	}
+	
+	.bg-clr2-1 {
+	  background-color: rgb(140, 122, 113);
+	  border-color: rgb(140, 122, 113);
+	}
+	
+	
+	.bg-clr3 {
+	  background-color: rgb(71, 2, 128);
+	  border-color: rgb(71, 2, 128);
+	}
+	
+	.bg-clr4 {
+	  background-color: rgb(4, 99, 9);
+	  border-color: rgb(4, 99, 9);
+	}
+	
+	.bg-clr5 {
+	  background-color: rgb(112, 3, 3);
+	  border-color: rgb(112, 3, 3);
+	}
+	
+	.bg-clr6 {
+	  background-color: rgb(106, 5, 116);
+	  border-color: rgb(106, 5, 116);
+	}
+	
+	.bg-clr7{
+	  background-color: rgb(104, 41, 60);
+	  border-color: rgb(104, 41, 60);
+	}
+	
+	.orders_list{
+		list-style:circle inside;
+		max-height: 900px;
+		overflow-y: auto;
+		margin:0;
+	}
+	.wcod_pro_search .orders_list {
+		list-style: circle inside;
+		max-height: 100px;
+		overflow-y: auto;
+		display:none;
+	}
+	.orders_list li {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		font-family: verdana;
+	}
+	.orders_list li a{
+		font-size:12px;
+	}	
+	
+	.wcod_loading {
+		background: url('../img/loading.gif');
+		background-size: 48px 28px;
+		height: 28px;
+		width: 48px;
+		display: none;
+		background-repeat: no-repeat;
+		position: absolute;
+		right: 10px;
+		top: 3px;
+	}
+	.wcod_clear_results,
+	.wcod_clear_results:active,
+	.wcod_clear_results:hover{
+		display:none;
+		font-size:12px;
+		color:#06C;
+		float:right;
+		cursor:pointer;
+	}
+	.wcod-searched{
+		background-color:yellow;
+	}
+	
+	.card-body table thead tr th,
+	.card-body table tbody tr th,
+	.card-body table tbody tr td {
+		padding: 10px;
+	}	
+	
+	.row.wcod-details-cols p,
+	table.table-bordered tbody td *,
+	.row.wcod-details-cols .card-body *{
+		color:#333;
+	}
+	
